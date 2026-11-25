@@ -1,0 +1,7 @@
+RPi.GPIO
+mfrc522
+pygame
+gTTS
+SpeechRecognition
+mysql-connector-python
+PyAudio

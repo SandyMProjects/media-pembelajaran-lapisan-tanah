@@ -1,0 +1,27 @@
+# Konfigurasi & kredensial lokal
+config/koneksi.php
+hardware/config.py
+
+# Skrip percobaan lama & cache Python
+hardware/utama2.py
+hardware/utama3.py
+hardware/utama4.py
+hardware/utama5.py
+__pycache__/
+*.pyc
+
+# File runtime sementara & audio dinamis TTS
+db_skripsi_tanah(asli).sql
+temp_analisis.mp3
+temp_rfid.txt
+assets/audio/nama_dinamis.mp3
+assets/audio/hasil_akhir.mp3
+assets/audio/pindah_mode.mp3
+
+# Naskah mentah jurnal
+*.doc
+*.docx
+
+# File sistem
+.DS_Store
+Thumbs.dbv
